@@ -1,3 +1,5 @@
-# framworks
+⚠ WIP
 
-You can find the frameworks and templates as branches in this repo.
+node install
+
+npx tsc -w
